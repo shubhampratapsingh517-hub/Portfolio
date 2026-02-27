@@ -4,7 +4,7 @@ import { useState, useEffect } from "react";
 
 export default function Hero() {
   const [text, setText] = useState("");
-  const fullText = "AI Engineer";
+  const fullText = "";
   
   useEffect(() => {
     let i = 0;
