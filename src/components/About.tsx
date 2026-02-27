@@ -29,10 +29,7 @@ export default function About() {
                 <Brain className="text-neon-purple w-8 h-8 group-hover:scale-110 transition-transform" />
                 <span className="font-mono text-sm">Problem Solver</span>
               </div>
-              <div className="flex flex-col items-center gap-3 p-4 bg-white/5 rounded-xl border border-white/10 hover:border-neon-blue transition-colors group">
-                <Code className="text-neon-blue w-8 h-8 group-hover:scale-110 transition-transform" />
-                <span className="font-mono text-sm">Full Stack Dev</span>
-              </div>
+              
               <div className="flex flex-col items-center gap-3 p-4 bg-white/5 rounded-xl border border-white/10 hover:border-neon-pink transition-colors group">
                 <Cpu className="text-neon-pink w-8 h-8 group-hover:scale-110 transition-transform" />
                 <span className="font-mono text-sm">ML Enthusiast</span>
